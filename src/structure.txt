@@ -1,0 +1,11 @@
+- src
+  |-applications
+    |-contracts
+    |-useCases
+  |-controllers
+  |-entities
+  |-frameworks
+    |-middlewares
+    |-persistence
+    |-routes
+    |-utils
